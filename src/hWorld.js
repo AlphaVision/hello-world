@@ -1,1 +1,3 @@
-alert('Hello world!');
+var hWorld : String = 'Hello world';
+
+alert(hWorld);
